@@ -1,4 +1,4 @@
-# Pg-Life-wepsite
+# Pg-Life-website
 PG Life is a static frontend website designed to help users search and explore paying guest accommodations across major cities like Delhi, Mumbai, Bengaluru, and Hyderabad.
 
 ## Features
